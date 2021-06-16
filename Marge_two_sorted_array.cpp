@@ -67,7 +67,6 @@ void gapMathod(vector<int>&a,vector<int>&b,int n,int m){
           if(b[i]>b[gap+i]) swap(b[i],b[gap+i]);
 }
 
-
 int main(){
     int n,m;
     cin>>n>>m;
